@@ -42,11 +42,11 @@ async def _start(client, message):
 	        reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                           InlineKeyboardButton("Join Updates Channel", url="https://t.me/UniversalBotsUpdate"),
-                           InlineKeyboardButton("Support Group", url="https://t.me/UniversalBotsSupport")
+                           InlineKeyboardButton("Join Updates Channel", url="https://t.me/overdepressive"),
+                           InlineKeyboardButton("Support Group", url="https://t.me/overdepressive")
                       ],
                      [
-                           InlineKeyboardButton("🧑‍💻Devloper🧑‍💻", url="https://t.me/JigarVarma2005")
+                           InlineKeyboardButton("🧑‍💻Devloper🧑‍💻", url="https://t.me/dreamfound")
                      ]
                  ]
              ),
@@ -59,11 +59,11 @@ async def _start(client, message):
 	reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("Join Updates Channel", url="https://t.me/UniversalBotsUpdate"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/UniversalBotsSupport")
+                    InlineKeyboardButton("Join Updates Channel", url="https://t.me/overdepressive"),
+                    InlineKeyboardButton("Support Group", url="https://t.me/overdepressive")
                 ],
                 [
-                    InlineKeyboardButton("🧑‍💻Devloper🧑‍💻", url="https://t.me/JigarVarma2005")
+                    InlineKeyboardButton("🧑‍💻Devloper🧑‍💻", url="https://t.me/overdepressive")
                 ]
             ]
         ),
@@ -82,11 +82,11 @@ async def _source_code(client, message):
                     InlineKeyboardButton("Souce Code", url="https://github.com/Jigarvarma2005/ForceSub_Bot")
                 ],
                 [
-                    InlineKeyboardButton("Join Updates Channel", url="https://t.me/UniversalBotsUpdate"),
-                    InlineKeyboardButton("Support Group", url="https://t.me/UniversalBotsSupport")
+                    InlineKeyboardButton("Join Updates Channel", url="https://t.me/overdepressive"),
+                    InlineKeyboardButton("Support Group", url="https://t.me/overdepressive")
                 ],
                 [
-                    InlineKeyboardButton("🧑‍💻Devloper🧑‍💻", url="https://t.me/JigarVarma2005")
+                    InlineKeyboardButton("🧑‍💻Devloper🧑‍💻", url="https://t.me/dreamfound")
                 ]
             ]
         ),
